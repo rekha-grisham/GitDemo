@@ -16,7 +16,7 @@ def test_crossBrowser(crossBrowser):#the crossBrowser method is defined in the c
     print(crossBrowser)
 
 def test_crossBrowser2(browser):
-    print("hello")
+    print("hello1")
 
     print(browser)
     print(browser[1])
