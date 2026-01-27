@@ -36,3 +36,5 @@ print(dic)
 dic["a"]="Rekha"
 dic["b"]="H"
 print(dic)
+
+print("This is Git test")
